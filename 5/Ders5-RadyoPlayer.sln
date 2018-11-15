@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders5-RadyoPlayer", "Ders5-RadyoProgrami\Ders5-RadyoPlayer.csproj", "{C51E1342-05F9-4379-9012-3B95E252492D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51E1342-05F9-4379-9012-3B95E252492D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51E1342-05F9-4379-9012-3B95E252492D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51E1342-05F9-4379-9012-3B95E252492D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51E1342-05F9-4379-9012-3B95E252492D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {421ACA7F-2BB1-4144-BC83-475E959443F4}
+	EndGlobalSection
+EndGlobal
